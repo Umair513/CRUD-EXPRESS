@@ -1,0 +1,29 @@
+{
+  "name": "crud-using-express-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umair513/CRUD-EXPRESS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Umair513/CRUD-EXPRESS/issues"
+  },
+  "homepage": "https://github.com/Umair513/CRUD-EXPRESS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1"
+  }
+}
